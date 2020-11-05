@@ -1,4 +1,4 @@
-# test_project
+# tip calculator
 
 A new Flutter project.
 
